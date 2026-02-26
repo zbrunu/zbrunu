@@ -5,7 +5,7 @@
 <p align="left">Sou um desenvolvedor backend em formação, estudando Java com foco em **Spring Boot**, Programação Orientada a Objetos (POO) e desenvolvimento de APIs RESTful. Além de conhecimentos em outras ferramentas.</p>
 
 ###
-__
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -21,7 +21,7 @@ __
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-__
+---
 ###
 
 <picture>
