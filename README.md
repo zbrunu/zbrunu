@@ -1,9 +1,10 @@
-<p align="left">Olá senhoras e senhores</p>
-
+# Olá, seja bem-vindo 👋
 ###
-
-<p align="left">Sou um desenvolvedor backend em formação, estudando Java com foco em **Spring Boot**, **Programação Orientada a Objetos (POO)** e desenvolvimento de APIs RESTful. Além de conhecimentos em outras ferramentas.</p>
-
+Sou desenvolvedor backend em formação, com foco em **Java** e **Spring Boot**, 
+estudando e aplicando **Programação Orientada a Objetos (POO)** e desenvolvimento de **APIs RESTful**.
+###
+Também tenho conhecimentos em **HTML**, **CSS**, **JavaScript** e **MySQL**, 
+o que me permite entender tanto o backend quanto a integração com o frontend.
 ###
 ---
 
