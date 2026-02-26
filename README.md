@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor backend em formação, estudando Java com foco em **Spring Boot**, Programação Orientada a Objetos (POO) e desenvolvimento de APIs RESTful. Além de conhecimentos em outras ferramentas.</p>
+<p align="left">Sou um desenvolvedor backend em formação, estudando Java com foco em **Spring Boot**, **Programação Orientada a Objetos (POO)** e desenvolvimento de APIs RESTful. Além de conhecimentos em outras ferramentas.</p>
 
 ###
 ---
